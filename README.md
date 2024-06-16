@@ -1,5 +1,4 @@
 ### Bonjour à tous et bienvenue sur mon profil !👋
-- 👨‍🎓  Je suis actuellement en formation pour devenir développeur web chez OpenClassrooms,
 - 📫 Comment me contacter : tony.marques@live.fr,
 
 
